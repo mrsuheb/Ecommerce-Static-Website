@@ -129,7 +129,7 @@ body{
 #close{display: none;}
 
 #hero{
-    background-image: url(/image/hero4.png);
+    background-image: url(image/hero4.png);
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -150,7 +150,7 @@ body{
 }
 
 #hero button{
-    background-image: url(/image/button.png);
+    background-image: url(image/button.png);
     background-color: transparent;
     color: #088178;
     border: 0;
@@ -296,7 +296,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(/image/b2.jpg);
+    background-image: url(image/b2.jpg);
     width: 90%;
     height: 40vh;
     background-size: cover;
@@ -335,7 +335,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(/image/b17.jpg);
+    background-image: url(image/b17.jpg);
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -344,7 +344,7 @@ body{
 }
 
 #sm-banner .banner-box2{
-    background-image: url(/image/b10.jpg);
+    background-image: url(image/b10.jpg);
 }
 
 #sm-banner h4{
@@ -385,7 +385,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(/image/b7.jpg);
+    background-image: url(image/b7.jpg);
     width: 30%;
     height: 30vh;
     background-size: cover;
@@ -395,11 +395,11 @@ body{
 }
 
 #banner3 .banner-box2{
-    background-image: url(/image/b4.jpg);
+    background-image: url(image/b4.jpg);
 }
 
 #banner3 .banner-box3{
-    background-image: url(/image/b18.jpg);
+    background-image: url(image/b18.jpg);
 }
 
 #banner3 .banner-box h2{
@@ -419,7 +419,7 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url(/image/b14.png);
+    background-image: url(image/b14.png);
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -534,7 +534,7 @@ footer .copyright{
 /* shop page */
 
 #page-header{
-    background-image: url("/image/b1.jpg");
+    background-image: url("image/b1.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -634,7 +634,7 @@ footer .copyright{
 /* Blog Page */
 
 #page-header.blog-header{
-    background-image: url("/image/b19.jpg");
+    background-image: url("image/b19.jpg");
 }
 
 #blog{
@@ -704,7 +704,7 @@ footer .copyright{
 /* About Page */
 
 #page-header.about-header{
-    background-image: url(/image/banner.png);
+    background-image: url(image/banner.png);
 }
 
 #about-head {
